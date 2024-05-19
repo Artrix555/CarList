@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Car List</string>
+    <string name="car_list_title">Car List</string>
+    <string name="car_image_description">Car Image</string>
+    <string name="car_details_title">Car Details</string>
+    <string name="car_model_label">Model:</string>
+    <string name="car_manufacturer_label">Manufacturer:</string>
+    <string name="car_year_label">Year:</string>
+    <string name="car_description_label">Description:</string>
+    <string name="visit_website_button">Visit Website</string>
+    <string name="share_menu_item">Share</string>
+    <string name="share_dialog_title">Share Car Details</string>
+    <string name="share_dialog_message">Do you want to share the car details?</string>
+    <string name="share_dialog_positive_button">Yes</string>
+    <string name="share_dialog_negative_button">No</string>
+    <string name="refresh_menu_item">Refresh</string>
+    <string name="share_confirmation_message">Car details shared successfully!</string>
+    <string name="switch_theme_menu_item">Switch Theme</string>
+</resources>

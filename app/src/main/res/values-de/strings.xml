@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Autoliste</string>
+    <string name="car_list_title">Autoliste</string>
+    <string name="car_image_description">Autobild</string>
+    <string name="car_details_title">Autodetails</string>
+    <string name="car_model_label">Modell:</string>
+    <string name="car_manufacturer_label">Hersteller:</string>
+    <string name="car_year_label">Jahr:</string>
+    <string name="car_description_label">Beschreibung:</string>
+    <string name="visit_website_button">Webseite besuchen</string>
+    <string name="share_menu_item">Teilen</string>
+    <string name="share_dialog_title">Autodetails teilen</string>
+    <string name="share_dialog_message">Möchten Sie die Autodetails teilen?</string>
+    <string name="share_dialog_positive_button">Ja</string>
+    <string name="share_dialog_negative_button">Nein</string>
+    <string name="refresh_menu_item">Aktualisieren</string>
+    <string name="share_confirmation_message">Fahrzeugdetails erfolgreich geteilt</string>
+    <string name="switch_theme_menu_item">Theme wechseln</string>
+</resources>

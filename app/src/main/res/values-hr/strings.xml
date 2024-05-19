@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lista Automobila</string>
+    <string name="car_list_title">Popis automobila</string>
+    <string name="car_image_description">Slika automobila</string>
+    <string name="car_details_title">Detalji automobila</string>
+    <string name="car_model_label">Model:</string>
+    <string name="car_manufacturer_label">Proizvođač:</string>
+    <string name="car_year_label">Godina:</string>
+    <string name="car_description_label">Opis:</string>
+    <string name="visit_website_button">Posjeti web stranicu</string>
+    <string name="share_menu_item">Podijeli</string>
+    <string name="share_dialog_title">Podijeli detalje automobila</string>
+    <string name="share_dialog_message">Želite li podijeliti detalje automobila?</string>
+    <string name="share_dialog_positive_button">Da</string>
+    <string name="share_dialog_negative_button">Ne</string>
+    <string name="refresh_menu_item">Osvježi</string>
+    <string name="share_confirmation_message">Detalji auta uspješno podijeljeni!</string>
+    <string name="switch_theme_menu_item">Promijeni temu</string>
+</resources>
